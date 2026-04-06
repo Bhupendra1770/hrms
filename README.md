@@ -1,3 +1,8 @@
+live url - https://hrms-frontend-hrms7.vercel.app/
+username - admin@gmail.com
+password - admin
+
+
 # HRMS Portal (Python + React + PostgreSQL)
 
 This is a starter HRMS portal with:
