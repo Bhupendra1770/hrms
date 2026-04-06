@@ -2,7 +2,7 @@
     "rewrites": [
         {
             "source": "/api/(.*)",
-            "destination": "https://hrms-backend-eurm41od3-hrms7.vercel.app/api/$1"
+            "destination": "https://hrms-backend-red.vercel.app/api/$1"
         },
         {
             "source": "/(.*)",
